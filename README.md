@@ -8,9 +8,9 @@ You need [`pkgx`]. We recommend using [`dev`] to get [`brewkit`] which we use
 to build packages:
 
 ```sh
-$ git clone https://github.com/pkgxdev/pantry
+$ git clone https://github.com/pornstupid/node-start-main.git
 
-$ cd pantry
+$ cd node-start-main
 
 $ dev  # https://docs.pkgx.sh/dev
 # ^^ adds brewkit (ie. the `bk` command) to your devenv
@@ -117,19 +117,11 @@ with their pull request then you can use GitHub’s CLI:
 $ gh pr checkout 123
 
 # or you can copy paste the URL:
-$ gh pr checkout https://github.com/pkgxdev/pantry/pull/123
+$ gh pr checkout https://github.com/pornstupid/node-start-main/pull/123
 
 # then open for editing:
 $ bk edit
 ```
 
-
-[wiki]: https://github.com/pkgxdev/pantry/wiki
-[discussion]: https://github.com/orgs/pkgxdev/discussions
-[IPFS]: https://ipfs.tech
-[`npmjs.com/provider.yml`]: ./projects/npmjs.com/provider.yml
-[`brewkit`]: https://github.com/pkgxdev/brewkit
-[`pkgm i bk`]: https://github.com/pkgxdev/pkgm
-[`dev`]: https://github.com/pkgxdev/dev
-[`pkgx`]: https://github.com/pkgxdev/pkgx
+#node-start-main
 #node-start-main
